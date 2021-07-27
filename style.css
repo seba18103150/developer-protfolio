@@ -1,0 +1,32 @@
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+h1{
+    frontsize : 300px;
+   
+}
+.my{
+    color: aquamarine;
+}
+section{
+    display:flex;
+}
+.half-size{
+    width: 50%;
+    padding-left: 7%;
+}
+.half-size img{
+    width: 85%;
+}
+p{
+    color: red                  ;
+    font-weight: 700;
+}
+.resume{
+    text-decoration: none;
+    background-image: linear-gradient(red, orange);
+    color: white;
+    font-weight: 700;
+    padding: 10px 50px;
+    border-radius: 5px;
+}
