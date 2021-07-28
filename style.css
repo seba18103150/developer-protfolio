@@ -1,5 +1,6 @@
 body{
     font-family: 'Noto Sans JP', sans-serif;
+    margin: 0;
 }
 h1{
     frontsize : 300px;
@@ -29,4 +30,8 @@ p{
     font-weight: 700;
     padding: 10px 50px;
     border-radius: 5px;
+}
+.top-baner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
