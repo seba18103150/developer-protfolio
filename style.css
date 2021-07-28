@@ -11,13 +11,15 @@ h1{
 }
 section{
     display:flex;
+    margin-bottom: 175px;
 }
 .half-size{
     width: 50%;
     padding-left: 7%;
+    padding-right: 9%;
 }
 .half-size img{
-    width: 85%;
+    width: 100%;
 }
 p{
     color: red                  ;
@@ -34,4 +36,9 @@ p{
 .top-baner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.drem-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
